@@ -2,6 +2,7 @@
 
 A simple Java application illustrating usage of the AWS SDK for Java.
 
+
 ## Requirements
 
 You have a choice of Maven or Gradle
